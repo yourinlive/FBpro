@@ -15,6 +15,6 @@ python3 FBpro.py
 
 
 
-`TAMPILAN LOGIN MENU`
+`BEST SUPORT 32BIT & 64BIT`
 
-![Screenshot_20250703-141633.jpg](https://raw.githubusercontent.com/yourinlive/CreatMAX/refs/heads/main/Screenshot_20250703-141633.jpg)
+![Screenshot_20250705-223243.jpg](https://github.com/yourinlive/FBpro/blob/main/Screenshot_20250705-223243.jpg)
