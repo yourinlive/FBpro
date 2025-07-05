@@ -10,6 +10,7 @@ DAN JADILAH PASUKAN SATRIA BAJAHITAM😆`
 ```
 git clone https://github.com/yourinlive/FBpro.git
 cd FBpro
+pip install cryptography
 python3 FBpro.py
 ```
 
